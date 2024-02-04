@@ -3,7 +3,7 @@
 
 I like to automate boring stuff, extract meaningful information out of boring data and calculate boring things to find out interesting facts.
 
-- 🔭 I’m currently working on [AWS Lambda Trigger TF template](https://github.com/kaledgar/s3-file-trigger-lambda)
+- 🔭 I’m currently working on a [Stratosphere](https://github.com/kaledgar/Stratosphere) - Light & Automated IAC template for cloud-native Minecraft Server - Deploy your Realm and play with your friends in just 3 minutes ⛏ 
 
 - 🌱 I’m currently learning **Docker and Jenkins**
 
