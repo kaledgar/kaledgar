@@ -3,9 +3,9 @@
 
 I like to automate boring stuff, extract meaningful information out of boring data and calculate boring things to find out interesting facts.
 
-- 🔭 I’m currently working on a [Stratosphere](https://github.com/kaledgar/Stratosphere) - Light & Automated IAC template for cloud-native Minecraft Server - Deploy your Realm and play with your friends in just 3 minutes ⛏ 
+- 🔭 I’m currently working on a [n-body-simulator](https://github.com/kaledgar/n-body-simulator) - python-based N-body problem solver package 🪐
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Technologies / Languages / Tools:</h3>
 <p align="left">
