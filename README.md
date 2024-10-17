@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">Data Engineer / Cloud / DevOps</h3>
+<h3 align="center">Data / Cloud / DevOps</h3>
 
 I like to automate boring stuff, extract meaningful information out of boring data and calculate boring things to find out interesting facts.
 
