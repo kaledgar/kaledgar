@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Data / Cloud / DevOps</h3>
 
-I like to automate boring stuff, extract meaningful information out of boring data and calculate boring things to find out interesting facts.
+I like to automate boring stuff.
 
 - 🔭 I’m currently working on a [n-body-simulator](https://github.com/kaledgar/n-body-simulator) - python-based N-body problem solver package 🪐
 
